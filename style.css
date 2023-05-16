@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 html{
     scroll-behavior: smooth;
 }
@@ -120,7 +120,8 @@ video{
     width: 1000px;
     position: relative;
     left: 25%;
-=======
+}
+
 body{
     background-image: url("Framesolana.png");
     background-size: 100%;
@@ -175,5 +176,5 @@ nav{
 table{
     position: relative;
     top: 40px;
->>>>>>> 2ef2e7ec72de739ddda065ffd9f2055dfe6f98dc
+
 }
