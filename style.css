@@ -164,7 +164,7 @@ video{
             top: -5px;
         }
         nav>h1{
-            width: 100px;
+            width: 150px;
         }
         .bienvenue {
             font-size: 38px;
@@ -206,7 +206,7 @@ video{
         #thrid-page{
             position: absolute;
             left: 10%;
-            top: 260%;
+            top: 270%;
             text-align: left;
         }
         .thrid-page{
@@ -219,7 +219,7 @@ video{
         #forth-page{
             position: absolute;
             left: 10%;
-            top: 630%;
+            top: 640%;
             text-align: left;
         }
         .forth-page{
