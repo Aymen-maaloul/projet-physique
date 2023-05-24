@@ -20,7 +20,7 @@ nav{
 nav>h1{
     position: relative;
     top: 25%;
-    left: 5%;
+    left:-40%;
     font-size: 200%;
     opacity: 100%;
     width: 200px;
