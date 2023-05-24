@@ -163,6 +163,9 @@ video{
             left: -5px;
             top: -5px;
         }
+        nav>h1{
+            width: 100px;
+        }
         .bienvenue {
             font-size: 38px;
             top: 60px;
@@ -231,9 +234,9 @@ video{
             top: 1010%;
         }
         video {
-            width: 350px;
+            width: 300px;
             position: relative;
-            left: -2.5%;
+            left: -4%;
         }
     }
 
