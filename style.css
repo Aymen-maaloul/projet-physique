@@ -232,13 +232,13 @@ video{
         }
         #video{
             position: absolute;
-            left: 10%;
-            top: 1010%;
+            left: 14%;
+            top: 990%;
         }
         video {
             width: 300px;
             position: relative;
-            left: -4%;
+            left: 0%;
         }
     }
 
